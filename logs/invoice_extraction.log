@@ -563,3 +563,1133 @@
 2026-06-11 16:36:25,737 | INFO | vat = Tax Id: 930-74-1829
 2026-06-11 16:36:25,737 | INFO | gross_worth = 
 2026-06-11 16:36:25,752 | INFO | Extraction completed
+2026-06-11 16:49:42,766 | INFO | Initializing OCR engine
+2026-06-11 16:49:42,767 | WARNING | Using CPU. Note: This module is much faster with a GPU.
+2026-06-11 16:49:44,084 | INFO | Invoice extraction started
+2026-06-11 16:49:44,085 | INFO | Processing batch1-0331.jpg
+2026-06-11 16:50:00,651 | INFO | Extracted 56 text rows
+2026-06-11 16:50:00,651 | INFO | seller_name = Client:
+2026-06-11 16:50:00,652 | INFO | seller_tax_id = Tax Id: 965-99-1263
+2026-06-11 16:50:00,652 | INFO | client_name = 
+2026-06-11 16:50:00,652 | INFO | client_tax_id = 
+2026-06-11 16:50:00,652 | INFO | invoice_number = no: 94138597
+2026-06-11 16:50:00,653 | INFO | invoice_date = no: 94138597
+2026-06-11 16:50:00,653 | INFO | net_worth = VAT [%] Gross Net worth worth
+2026-06-11 16:50:00,654 | INFO | vat = Tax Id: 965-99-1263
+2026-06-11 16:50:00,655 | INFO | gross_worth = 
+2026-06-11 16:50:00,658 | INFO | Processing batch1-0332.jpg
+2026-06-11 16:50:13,796 | INFO | Extracted 47 text rows
+2026-06-11 16:50:13,796 | INFO | seller_name = Client:
+2026-06-11 16:50:13,797 | INFO | seller_tax_id = Tax Id: 956-94-0439
+2026-06-11 16:50:13,797 | INFO | client_name = 
+2026-06-11 16:50:13,798 | INFO | client_tax_id = 
+2026-06-11 16:50:13,798 | INFO | invoice_number = no: 13507183
+2026-06-11 16:50:13,798 | INFO | invoice_date = no: 13507183
+2026-06-11 16:50:13,799 | INFO | net_worth = VAT [%] Gross Net worth worth
+2026-06-11 16:50:13,799 | INFO | vat = Tax Id: 956-94-0439
+2026-06-11 16:50:13,799 | INFO | gross_worth = 
+2026-06-11 16:50:13,801 | INFO | Processing batch1-0333.jpg
+2026-06-11 16:50:25,880 | INFO | Extracted 47 text rows
+2026-06-11 16:50:25,881 | INFO | seller_name = Client:
+2026-06-11 16:50:25,881 | INFO | seller_tax_id = Tax Id: 988-96-5706
+2026-06-11 16:50:25,881 | INFO | client_name = 
+2026-06-11 16:50:25,881 | INFO | client_tax_id = 
+2026-06-11 16:50:25,882 | INFO | invoice_number = no: 74819543
+2026-06-11 16:50:25,882 | INFO | invoice_date = no: 74819543
+2026-06-11 16:50:25,882 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 16:50:25,882 | INFO | vat = Tax Id: 988-96-5706
+2026-06-11 16:50:25,882 | INFO | gross_worth = 
+2026-06-11 16:50:25,885 | INFO | Processing batch1-0334.jpg
+2026-06-11 16:50:38,847 | INFO | Extracted 48 text rows
+2026-06-11 16:50:38,847 | INFO | seller_name = Client:
+2026-06-11 16:50:38,848 | INFO | seller_tax_id = Tax Id: 909-91-4017
+2026-06-11 16:50:38,848 | INFO | client_name = 
+2026-06-11 16:50:38,848 | INFO | client_tax_id = 
+2026-06-11 16:50:38,848 | INFO | invoice_number = no: 65498230
+2026-06-11 16:50:38,848 | INFO | invoice_date = no: 65498230
+2026-06-11 16:50:38,848 | INFO | net_worth = Unit 6000 Box 9800
+2026-06-11 16:50:38,849 | INFO | vat = Tax Id: 909-91-4017
+2026-06-11 16:50:38,849 | INFO | gross_worth = 
+2026-06-11 16:50:38,850 | INFO | Processing batch1-0335.jpg
+2026-06-11 16:50:57,574 | INFO | Extracted 114 text rows
+2026-06-11 16:50:57,575 | INFO | seller_name = Client:
+2026-06-11 16:50:57,575 | INFO | seller_tax_id = Tax Id: 939-82-6262
+2026-06-11 16:50:57,575 | INFO | client_name = 
+2026-06-11 16:50:57,575 | INFO | client_tax_id = 
+2026-06-11 16:50:57,575 | INFO | invoice_number = no: 51467723
+2026-06-11 16:50:57,576 | INFO | invoice_date = no: 51467723
+2026-06-11 16:50:57,576 | INFO | net_worth = VAT [%] Gross Net worth worth
+2026-06-11 16:50:57,576 | INFO | vat = Tax Id: 939-82-6262
+2026-06-11 16:50:57,577 | INFO | gross_worth = 
+2026-06-11 16:50:57,579 | INFO | Processing batch1-0336.jpg
+2026-06-11 16:51:11,478 | INFO | Extracted 89 text rows
+2026-06-11 16:51:11,478 | INFO | seller_name = Client:
+2026-06-11 16:51:11,478 | INFO | seller_tax_id = Tax Id: 993-86-3706
+2026-06-11 16:51:11,479 | INFO | client_name = 
+2026-06-11 16:51:11,479 | INFO | client_tax_id = 
+2026-06-11 16:51:11,479 | INFO | invoice_number = no: 97511742
+2026-06-11 16:51:11,479 | INFO | invoice_date = no: 97511742
+2026-06-11 16:51:11,480 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 16:51:11,480 | INFO | vat = Tax Id: 993-86-3706
+2026-06-11 16:51:11,480 | INFO | gross_worth = 
+2026-06-11 16:51:11,482 | INFO | Processing batch1-0337.jpg
+2026-06-11 16:51:24,215 | INFO | Extracted 91 text rows
+2026-06-11 16:51:24,216 | INFO | seller_name = Client:
+2026-06-11 16:51:24,216 | INFO | seller_tax_id = Tax Id: 981-88-6259
+2026-06-11 16:51:24,217 | INFO | client_name = 
+2026-06-11 16:51:24,217 | INFO | client_tax_id = 
+2026-06-11 16:51:24,217 | INFO | invoice_number = no: 94098997
+2026-06-11 16:51:24,217 | INFO | invoice_date = no: 94098997
+2026-06-11 16:51:24,217 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 16:51:24,218 | INFO | vat = Tax Id: 981-88-6259
+2026-06-11 16:51:24,218 | INFO | gross_worth = 
+2026-06-11 16:51:24,220 | INFO | Processing batch1-0338.jpg
+2026-06-11 16:51:35,760 | INFO | Extracted 80 text rows
+2026-06-11 16:51:35,761 | INFO | seller_name = Client:
+2026-06-11 16:51:35,761 | INFO | seller_tax_id = Tax Id: 998-92-7755
+2026-06-11 16:51:35,761 | INFO | client_name = 
+2026-06-11 16:51:35,761 | INFO | client_tax_id = 
+2026-06-11 16:51:35,762 | INFO | invoice_number = no: 11926242
+2026-06-11 16:51:35,762 | INFO | invoice_date = no: 11926242
+2026-06-11 16:51:35,762 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 16:51:35,762 | INFO | vat = Tax Id: 998-92-7755
+2026-06-11 16:51:35,763 | INFO | gross_worth = 
+2026-06-11 16:51:35,765 | INFO | Processing batch1-0339.jpg
+2026-06-11 16:51:49,321 | INFO | Extracted 111 text rows
+2026-06-11 16:51:49,321 | INFO | seller_name = Client:
+2026-06-11 16:51:49,321 | INFO | seller_tax_id = Tax Id: 967-80-5679
+2026-06-11 16:51:49,322 | INFO | client_name = 
+2026-06-11 16:51:49,323 | INFO | client_tax_id = 
+2026-06-11 16:51:49,323 | INFO | invoice_number = no: 48531206
+2026-06-11 16:51:49,324 | INFO | invoice_date = no: 48531206
+2026-06-11 16:51:49,324 | INFO | net_worth = Le, Lawson and Rios
+2026-06-11 16:51:49,324 | INFO | vat = Tax Id: 967-80-5679
+2026-06-11 16:51:49,325 | INFO | gross_worth = 
+2026-06-11 16:51:49,328 | INFO | Processing batch1-0340.jpg
+2026-06-11 16:52:02,196 | INFO | Extracted 64 text rows
+2026-06-11 16:52:02,196 | INFO | seller_name = Client:
+2026-06-11 16:52:02,197 | INFO | seller_tax_id = Tax Id: 999-86-4010
+2026-06-11 16:52:02,197 | INFO | client_name = 
+2026-06-11 16:52:02,197 | INFO | client_tax_id = 
+2026-06-11 16:52:02,197 | INFO | invoice_number = no: 82977013
+2026-06-11 16:52:02,198 | INFO | invoice_date = no: 82977013
+2026-06-11 16:52:02,198 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 16:52:02,198 | INFO | vat = Tax Id: 999-86-4010
+2026-06-11 16:52:02,199 | INFO | gross_worth = 
+2026-06-11 16:52:02,201 | INFO | Processing batch1-0341.jpg
+2026-06-11 16:52:16,273 | INFO | Extracted 86 text rows
+2026-06-11 16:52:16,273 | INFO | seller_name = Client:
+2026-06-11 16:52:16,274 | INFO | seller_tax_id = Tax Id: 918-70-1520
+2026-06-11 16:52:16,274 | INFO | client_name = 
+2026-06-11 16:52:16,274 | INFO | client_tax_id = 
+2026-06-11 16:52:16,275 | INFO | invoice_number = no: 86225018
+2026-06-11 16:52:16,275 | INFO | invoice_date = no: 86225018
+2026-06-11 16:52:16,275 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 16:52:16,276 | INFO | vat = Tax Id: 918-70-1520
+2026-06-11 16:52:16,276 | INFO | gross_worth = 
+2026-06-11 16:52:16,278 | INFO | Processing batch1-0342.jpg
+2026-06-11 16:52:28,736 | INFO | Extracted 57 text rows
+2026-06-11 16:52:28,737 | INFO | seller_name = Client:
+2026-06-11 16:52:28,737 | INFO | seller_tax_id = Tax Id: 992-88-6386
+2026-06-11 16:52:28,738 | INFO | client_name = 
+2026-06-11 16:52:28,738 | INFO | client_tax_id = 
+2026-06-11 16:52:28,738 | INFO | invoice_number = no: 79064100
+2026-06-11 16:52:28,738 | INFO | invoice_date = no: 79064100
+2026-06-11 16:52:28,739 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 16:52:28,739 | INFO | vat = Tax Id: 992-88-6386
+2026-06-11 16:52:28,739 | INFO | gross_worth = 
+2026-06-11 16:52:28,742 | INFO | Processing batch1-0343.jpg
+2026-06-11 16:52:42,028 | INFO | Extracted 67 text rows
+2026-06-11 16:52:42,029 | INFO | seller_name = Client:
+2026-06-11 16:52:42,029 | INFO | seller_tax_id = Tax Id: 952-75-5780
+2026-06-11 16:52:42,029 | INFO | client_name = 
+2026-06-11 16:52:42,029 | INFO | client_tax_id = 
+2026-06-11 16:52:42,030 | INFO | invoice_number = no: 69057610
+2026-06-11 16:52:42,030 | INFO | invoice_date = no: 69057610
+2026-06-11 16:52:42,030 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 16:52:42,030 | INFO | vat = Tax Id: 952-75-5780
+2026-06-11 16:52:42,030 | INFO | gross_worth = 
+2026-06-11 16:52:42,032 | INFO | Processing batch1-0344.jpg
+2026-06-11 16:52:54,935 | INFO | Extracted 102 text rows
+2026-06-11 16:52:54,935 | INFO | seller_name = Client:
+2026-06-11 16:52:54,935 | INFO | seller_tax_id = Tax Id: 936-85-0485
+2026-06-11 16:52:54,936 | INFO | client_name = 
+2026-06-11 16:52:54,936 | INFO | client_tax_id = 
+2026-06-11 16:52:54,936 | INFO | invoice_number = no: 85473134
+2026-06-11 16:52:54,937 | INFO | invoice_date = no: 85473134
+2026-06-11 16:52:54,937 | INFO | net_worth = VAT [%] Gross Net worth worth
+2026-06-11 16:52:54,937 | INFO | vat = Tax Id: 936-85-0485
+2026-06-11 16:52:54,938 | INFO | gross_worth = 
+2026-06-11 16:52:54,940 | INFO | Processing batch1-0345.jpg
+2026-06-11 16:53:09,284 | INFO | Extracted 88 text rows
+2026-06-11 16:53:09,284 | INFO | seller_name = Client:
+2026-06-11 16:53:09,284 | INFO | seller_tax_id = Tax Id: 992-84-7640
+2026-06-11 16:53:09,285 | INFO | client_name = 
+2026-06-11 16:53:09,285 | INFO | client_tax_id = 
+2026-06-11 16:53:09,285 | INFO | invoice_number = no: 92919413
+2026-06-11 16:53:09,285 | INFO | invoice_date = no: 92919413
+2026-06-11 16:53:09,285 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 16:53:09,286 | INFO | vat = Tax Id: 992-84-7640
+2026-06-11 16:53:09,286 | INFO | gross_worth = 
+2026-06-11 16:53:09,288 | INFO | Processing batch1-0346.jpg
+2026-06-11 16:53:21,271 | INFO | Extracted 77 text rows
+2026-06-11 16:53:21,272 | INFO | seller_name = Client:
+2026-06-11 16:53:21,272 | INFO | seller_tax_id = Tax Id: 934-84-4841
+2026-06-11 16:53:21,272 | INFO | client_name = 
+2026-06-11 16:53:21,272 | INFO | client_tax_id = 
+2026-06-11 16:53:21,273 | INFO | invoice_number = no: 49380136
+2026-06-11 16:53:21,273 | INFO | invoice_date = no: 49380136
+2026-06-11 16:53:21,273 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 16:53:21,273 | INFO | vat = Tax Id: 934-84-4841
+2026-06-11 16:53:21,274 | INFO | gross_worth = 
+2026-06-11 16:53:21,276 | INFO | Processing batch1-0347.jpg
+2026-06-11 16:53:33,742 | INFO | Extracted 67 text rows
+2026-06-11 16:53:33,742 | INFO | seller_name = Client:
+2026-06-11 16:53:33,742 | INFO | seller_tax_id = Tax Id: 981-79-3397
+2026-06-11 16:53:33,743 | INFO | client_name = 
+2026-06-11 16:53:33,743 | INFO | client_tax_id = 
+2026-06-11 16:53:33,743 | INFO | invoice_number = no: 89042780
+2026-06-11 16:53:33,743 | INFO | invoice_date = no: 89042780
+2026-06-11 16:53:33,743 | INFO | net_worth = VAT [%] Gross Net worth worth
+2026-06-11 16:53:33,743 | INFO | vat = Tax Id: 981-79-3397
+2026-06-11 16:53:33,744 | INFO | gross_worth = 
+2026-06-11 16:53:33,745 | INFO | Processing batch1-0348.jpg
+2026-06-11 16:53:48,016 | INFO | Extracted 107 text rows
+2026-06-11 16:53:48,017 | INFO | seller_name = Client:
+2026-06-11 16:53:48,017 | INFO | seller_tax_id = Tax Id: 997-98-1436
+2026-06-11 16:53:48,017 | INFO | client_name = 
+2026-06-11 16:53:48,017 | INFO | client_tax_id = 
+2026-06-11 16:53:48,018 | INFO | invoice_number = no: 50956755
+2026-06-11 16:53:48,018 | INFO | invoice_date = no: 50956755
+2026-06-11 16:53:48,018 | INFO | net_worth = VAT [%] Gross Net worth worth
+2026-06-11 16:53:48,019 | INFO | vat = Tax Id: 997-98-1436
+2026-06-11 16:53:48,019 | INFO | gross_worth = 
+2026-06-11 16:53:48,021 | INFO | Processing batch1-0349.jpg
+2026-06-11 16:54:01,703 | INFO | Extracted 87 text rows
+2026-06-11 16:54:01,703 | INFO | seller_name = Client:
+2026-06-11 16:54:01,704 | INFO | seller_tax_id = Tax Id: 944-87-7634
+2026-06-11 16:54:01,704 | INFO | client_name = 
+2026-06-11 16:54:01,704 | INFO | client_tax_id = 
+2026-06-11 16:54:01,704 | INFO | invoice_number = no: 39571754
+2026-06-11 16:54:01,705 | INFO | invoice_date = no: 39571754
+2026-06-11 16:54:01,705 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 16:54:01,705 | INFO | vat = Tax Id: 944-87-7634
+2026-06-11 16:54:01,705 | INFO | gross_worth = 
+2026-06-11 16:54:01,707 | INFO | Processing batch1-0350.jpg
+2026-06-11 16:54:15,706 | INFO | Extracted 89 text rows
+2026-06-11 16:54:15,707 | INFO | seller_name = Client:
+2026-06-11 16:54:15,707 | INFO | seller_tax_id = Tax Id: 925-92-0610
+2026-06-11 16:54:15,708 | INFO | client_name = 
+2026-06-11 16:54:15,708 | INFO | client_tax_id = 
+2026-06-11 16:54:15,708 | INFO | invoice_number = no: 39077025
+2026-06-11 16:54:15,708 | INFO | invoice_date = no: 39077025
+2026-06-11 16:54:15,709 | INFO | net_worth = VAT [%] Gross Net worth worth
+2026-06-11 16:54:15,710 | INFO | vat = Tax Id: 925-92-0610
+2026-06-11 16:54:15,710 | INFO | gross_worth = 
+2026-06-11 16:54:15,712 | INFO | Processing batch1-0351.jpg
+2026-06-11 16:54:27,707 | INFO | Extracted 48 text rows
+2026-06-11 16:54:27,707 | INFO | seller_name = Client:
+2026-06-11 16:54:27,708 | INFO | seller_tax_id = Tax Id: 924-90-5219
+2026-06-11 16:54:27,708 | INFO | client_name = 
+2026-06-11 16:54:27,709 | INFO | client_tax_id = 
+2026-06-11 16:54:27,709 | INFO | invoice_number = no: 77015917
+2026-06-11 16:54:27,709 | INFO | invoice_date = no: 77015917
+2026-06-11 16:54:27,709 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 16:54:27,710 | INFO | vat = Tax Id: 924-90-5219
+2026-06-11 16:54:27,710 | INFO | gross_worth = 
+2026-06-11 16:54:27,712 | INFO | Processing batch1-0352.jpg
+2026-06-11 16:54:43,267 | INFO | Extracted 98 text rows
+2026-06-11 16:54:43,268 | INFO | seller_name = Client:
+2026-06-11 16:54:43,268 | INFO | seller_tax_id = Tax Id: 906-94-4177
+2026-06-11 16:54:43,268 | INFO | client_name = 
+2026-06-11 16:54:43,269 | INFO | client_tax_id = 
+2026-06-11 16:54:43,269 | INFO | invoice_number = no: 50554106
+2026-06-11 16:54:43,269 | INFO | invoice_date = no: 50554106
+2026-06-11 16:54:43,269 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 16:54:43,269 | INFO | vat = Tax Id: 906-94-4177
+2026-06-11 16:54:43,270 | INFO | gross_worth = 
+2026-06-11 16:54:43,271 | INFO | Processing batch1-0353.jpg
+2026-06-11 16:54:56,860 | INFO | Extracted 80 text rows
+2026-06-11 16:54:56,861 | INFO | seller_name = Client:
+2026-06-11 16:54:56,861 | INFO | seller_tax_id = Tax Id: 988-88-5388
+2026-06-11 16:54:56,861 | INFO | client_name = 
+2026-06-11 16:54:56,862 | INFO | client_tax_id = 
+2026-06-11 16:54:56,862 | INFO | invoice_number = no: 10819011
+2026-06-11 16:54:56,862 | INFO | invoice_date = no: 10819011
+2026-06-11 16:54:56,862 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 16:54:56,862 | INFO | vat = Tax Id: 988-88-5388
+2026-06-11 16:54:56,863 | INFO | gross_worth = 
+2026-06-11 16:54:56,865 | INFO | Processing batch1-0354.jpg
+2026-06-11 16:55:09,172 | INFO | Extracted 88 text rows
+2026-06-11 16:55:09,173 | INFO | seller_name = Client:
+2026-06-11 16:55:09,173 | INFO | seller_tax_id = Tax Id: 977-75-8747
+2026-06-11 16:55:09,173 | INFO | client_name = 
+2026-06-11 16:55:09,173 | INFO | client_tax_id = 
+2026-06-11 16:55:09,173 | INFO | invoice_number = no: 49929761
+2026-06-11 16:55:09,174 | INFO | invoice_date = no: 49929761
+2026-06-11 16:55:09,174 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 16:55:09,174 | INFO | vat = Tax Id: 977-75-8747
+2026-06-11 16:55:09,174 | INFO | gross_worth = 
+2026-06-11 16:55:09,176 | INFO | Processing batch1-0355.jpg
+2026-06-11 16:55:21,105 | INFO | Extracted 74 text rows
+2026-06-11 16:55:21,106 | INFO | seller_name = Client:
+2026-06-11 16:55:21,106 | INFO | seller_tax_id = Tax Id: 907-98-7260
+2026-06-11 16:55:21,106 | INFO | client_name = 
+2026-06-11 16:55:21,106 | INFO | client_tax_id = 
+2026-06-11 16:55:21,107 | INFO | invoice_number = no: 92179921
+2026-06-11 16:55:21,107 | INFO | invoice_date = no: 92179921
+2026-06-11 16:55:21,107 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 16:55:21,108 | INFO | vat = Tax Id: 907-98-7260
+2026-06-11 16:55:21,108 | INFO | gross_worth = 
+2026-06-11 16:55:21,110 | INFO | Processing batch1-0356.jpg
+2026-06-11 16:55:31,738 | INFO | Extracted 48 text rows
+2026-06-11 16:55:31,738 | INFO | seller_name = Client:
+2026-06-11 16:55:31,739 | INFO | seller_tax_id = Tax Id: 926-74-8186
+2026-06-11 16:55:31,739 | INFO | client_name = 
+2026-06-11 16:55:31,739 | INFO | client_tax_id = 
+2026-06-11 16:55:31,739 | INFO | invoice_number = no: 23385207
+2026-06-11 16:55:31,739 | INFO | invoice_date = no: 23385207
+2026-06-11 16:55:31,739 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 16:55:31,739 | INFO | vat = Tax Id: 926-74-8186
+2026-06-11 16:55:31,740 | INFO | gross_worth = 
+2026-06-11 16:55:31,741 | INFO | Processing batch1-0357.jpg
+2026-06-11 16:55:43,931 | INFO | Extracted 69 text rows
+2026-06-11 16:55:43,932 | INFO | seller_name = Client:
+2026-06-11 16:55:43,932 | INFO | seller_tax_id = Tax Id: 968-92-5785
+2026-06-11 16:55:43,932 | INFO | client_name = 
+2026-06-11 16:55:43,932 | INFO | client_tax_id = 
+2026-06-11 16:55:43,932 | INFO | invoice_number = no: 19507687
+2026-06-11 16:55:43,933 | INFO | invoice_date = no: 19507687
+2026-06-11 16:55:43,933 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 16:55:43,933 | INFO | vat = Tax Id: 968-92-5785
+2026-06-11 16:55:43,933 | INFO | gross_worth = 
+2026-06-11 16:55:43,936 | INFO | Processing batch1-0358.jpg
+2026-06-11 16:55:55,135 | INFO | Extracted 48 text rows
+2026-06-11 16:55:55,135 | INFO | seller_name = Client:
+2026-06-11 16:55:55,136 | INFO | seller_tax_id = Tax Id: 968-87-5481
+2026-06-11 16:55:55,136 | INFO | client_name = 
+2026-06-11 16:55:55,136 | INFO | client_tax_id = 
+2026-06-11 16:55:55,136 | INFO | invoice_number = no: 61660848
+2026-06-11 16:55:55,136 | INFO | invoice_date = no: 61660848
+2026-06-11 16:55:55,137 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 16:55:55,137 | INFO | vat = Tax Id: 968-87-5481
+2026-06-11 16:55:55,137 | INFO | gross_worth = 
+2026-06-11 16:55:55,139 | INFO | Processing batch1-0359.jpg
+2026-06-11 16:56:06,038 | INFO | Extracted 56 text rows
+2026-06-11 16:56:06,038 | INFO | seller_name = Client:
+2026-06-11 16:56:06,038 | INFO | seller_tax_id = Tax Id: 943-83-6136
+2026-06-11 16:56:06,039 | INFO | client_name = 
+2026-06-11 16:56:06,039 | INFO | client_tax_id = 
+2026-06-11 16:56:06,039 | INFO | invoice_number = no: 29534383
+2026-06-11 16:56:06,039 | INFO | invoice_date = no: 29534383
+2026-06-11 16:56:06,040 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 16:56:06,040 | INFO | vat = Tax Id: 943-83-6136
+2026-06-11 16:56:06,040 | INFO | gross_worth = 
+2026-06-11 16:56:06,042 | INFO | Processing batch1-0360.jpg
+2026-06-11 16:56:19,517 | INFO | Extracted 78 text rows
+2026-06-11 16:56:19,518 | INFO | seller_name = Client:
+2026-06-11 16:56:19,518 | INFO | seller_tax_id = Tax Id: 952-95-0332
+2026-06-11 16:56:19,518 | INFO | client_name = 
+2026-06-11 16:56:19,518 | INFO | client_tax_id = 
+2026-06-11 16:56:19,518 | INFO | invoice_number = no: 58126171
+2026-06-11 16:56:19,519 | INFO | invoice_date = no: 58126171
+2026-06-11 16:56:19,519 | INFO | net_worth = VAT [%] Gross Net worth worth
+2026-06-11 16:56:19,519 | INFO | vat = Tax Id: 952-95-0332
+2026-06-11 16:56:19,519 | INFO | gross_worth = 
+2026-06-11 16:56:19,520 | INFO | Processing batch1-0361.jpg
+2026-06-11 16:56:33,915 | INFO | Extracted 96 text rows
+2026-06-11 16:56:33,916 | INFO | seller_name = Client:
+2026-06-11 16:56:33,916 | INFO | seller_tax_id = Tax Id: 907-73-8031
+2026-06-11 16:56:33,916 | INFO | client_name = 
+2026-06-11 16:56:33,916 | INFO | client_tax_id = 
+2026-06-11 16:56:33,916 | INFO | invoice_number = no: 86575728
+2026-06-11 16:56:33,917 | INFO | invoice_date = no: 86575728
+2026-06-11 16:56:33,917 | INFO | net_worth = VAT [%] Gross Net worth worth
+2026-06-11 16:56:33,917 | INFO | vat = Tax Id: 907-73-8031
+2026-06-11 16:56:33,917 | INFO | gross_worth = 
+2026-06-11 16:56:33,919 | INFO | Processing batch1-0362.jpg
+2026-06-11 16:56:47,235 | INFO | Extracted 87 text rows
+2026-06-11 16:56:47,235 | INFO | seller_name = Client:
+2026-06-11 16:56:47,236 | INFO | seller_tax_id = Tax Id: 915-85-0288
+2026-06-11 16:56:47,236 | INFO | client_name = 
+2026-06-11 16:56:47,237 | INFO | client_tax_id = 
+2026-06-11 16:56:47,237 | INFO | invoice_number = no: 76628307
+2026-06-11 16:56:47,237 | INFO | invoice_date = no: 76628307
+2026-06-11 16:56:47,237 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 16:56:47,238 | INFO | vat = Tax Id: 915-85-0288
+2026-06-11 16:56:47,238 | INFO | gross_worth = 
+2026-06-11 16:56:47,240 | INFO | Processing batch1-0363.jpg
+2026-06-11 16:56:59,610 | INFO | Extracted 47 text rows
+2026-06-11 16:56:59,611 | INFO | seller_name = Client:
+2026-06-11 16:56:59,611 | INFO | seller_tax_id = Tax Id: 923-84-5244
+2026-06-11 16:56:59,611 | INFO | client_name = 
+2026-06-11 16:56:59,611 | INFO | client_tax_id = 
+2026-06-11 16:56:59,612 | INFO | invoice_number = no: 16499996
+2026-06-11 16:56:59,612 | INFO | invoice_date = no: 16499996
+2026-06-11 16:56:59,612 | INFO | net_worth = VAT [%] Gross Net worth worth
+2026-06-11 16:56:59,612 | INFO | vat = Tax Id: 923-84-5244
+2026-06-11 16:56:59,612 | INFO | gross_worth = 
+2026-06-11 16:56:59,614 | INFO | Processing batch1-0364.jpg
+2026-06-11 16:57:15,184 | INFO | Extracted 57 text rows
+2026-06-11 16:57:15,184 | INFO | seller_name = Client:
+2026-06-11 16:57:15,185 | INFO | seller_tax_id = Tax Id: 988-84-2670
+2026-06-11 16:57:15,185 | INFO | client_name = 
+2026-06-11 16:57:15,185 | INFO | client_tax_id = 
+2026-06-11 16:57:15,186 | INFO | invoice_number = no: 61113263
+2026-06-11 16:57:15,186 | INFO | invoice_date = no: 61113263
+2026-06-11 16:57:15,186 | INFO | net_worth = VAT [%] Gross Net worth worth
+2026-06-11 16:57:15,187 | INFO | vat = Tax Id: 988-84-2670
+2026-06-11 16:57:15,187 | INFO | gross_worth = 
+2026-06-11 16:57:15,190 | INFO | Processing batch1-0365.jpg
+2026-06-11 16:57:32,893 | INFO | Extracted 103 text rows
+2026-06-11 16:57:32,894 | INFO | seller_name = Client:
+2026-06-11 16:57:32,894 | INFO | seller_tax_id = Tax Id: 932-73-0621
+2026-06-11 16:57:32,894 | INFO | client_name = 
+2026-06-11 16:57:32,894 | INFO | client_tax_id = 
+2026-06-11 16:57:32,894 | INFO | invoice_number = no: 41887329
+2026-06-11 16:57:32,894 | INFO | invoice_date = no: 41887329
+2026-06-11 16:57:32,895 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 16:57:32,895 | INFO | vat = Tax Id: 932-73-0621
+2026-06-11 16:57:32,896 | INFO | gross_worth = 
+2026-06-11 16:57:32,897 | INFO | Processing batch1-0366.jpg
+2026-06-11 16:57:59,078 | INFO | Extracted 104 text rows
+2026-06-11 16:57:59,079 | INFO | seller_name = Client:
+2026-06-11 16:57:59,080 | INFO | seller_tax_id = Tax Id: 963-76-2257
+2026-06-11 16:57:59,080 | INFO | client_name = 
+2026-06-11 16:57:59,081 | INFO | client_tax_id = 
+2026-06-11 16:57:59,082 | INFO | invoice_number = no: 74583312
+2026-06-11 16:57:59,082 | INFO | invoice_date = no: 74583312
+2026-06-11 16:57:59,083 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 16:57:59,084 | INFO | vat = Tax Id: 963-76-2257
+2026-06-11 16:57:59,086 | INFO | gross_worth = 
+2026-06-11 16:57:59,100 | INFO | Processing batch1-0367.jpg
+2026-06-11 16:58:37,371 | INFO | Extracted 90 text rows
+2026-06-11 16:58:37,372 | INFO | seller_name = Client:
+2026-06-11 16:58:37,372 | INFO | seller_tax_id = Tax Id: 932-85-2181
+2026-06-11 16:58:37,373 | INFO | client_name = 
+2026-06-11 16:58:37,373 | INFO | client_tax_id = 
+2026-06-11 16:58:37,373 | INFO | invoice_number = no: 23995139
+2026-06-11 16:58:37,374 | INFO | invoice_date = no: 23995139
+2026-06-11 16:58:37,374 | INFO | net_worth = VAT [%] Gross Net worth worth
+2026-06-11 16:58:37,374 | INFO | vat = Tax Id: 932-85-2181
+2026-06-11 16:58:37,375 | INFO | gross_worth = 
+2026-06-11 16:58:37,382 | INFO | Processing batch1-0368.jpg
+2026-06-11 16:59:05,148 | INFO | Extracted 57 text rows
+2026-06-11 16:59:05,148 | INFO | seller_name = Client:
+2026-06-11 16:59:05,149 | INFO | seller_tax_id = Tax Id: 905-94-4635
+2026-06-11 16:59:05,149 | INFO | client_name = 
+2026-06-11 16:59:05,149 | INFO | client_tax_id = 
+2026-06-11 16:59:05,149 | INFO | invoice_number = no: 87934175
+2026-06-11 16:59:05,149 | INFO | invoice_date = no: 87934175
+2026-06-11 16:59:05,149 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 16:59:05,150 | INFO | vat = Tax Id: 905-94-4635
+2026-06-11 16:59:05,150 | INFO | gross_worth = 
+2026-06-11 16:59:05,151 | INFO | Processing batch1-0369.jpg
+2026-06-11 16:59:39,726 | INFO | Extracted 93 text rows
+2026-06-11 16:59:39,727 | INFO | seller_name = Client:
+2026-06-11 16:59:39,728 | INFO | seller_tax_id = Tax Id: 911-83-0636
+2026-06-11 16:59:39,729 | INFO | client_name = 
+2026-06-11 16:59:39,729 | INFO | client_tax_id = 
+2026-06-11 16:59:39,730 | INFO | invoice_number = no: 64809205
+2026-06-11 16:59:39,730 | INFO | invoice_date = no: 64809205
+2026-06-11 16:59:39,731 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 16:59:39,732 | INFO | vat = Tax Id: 911-83-0636
+2026-06-11 16:59:39,735 | INFO | gross_worth = 
+2026-06-11 16:59:39,745 | INFO | Processing batch1-0370.jpg
+2026-06-11 17:00:06,196 | INFO | Extracted 88 text rows
+2026-06-11 17:00:06,196 | INFO | seller_name = Client:
+2026-06-11 17:00:06,197 | INFO | seller_tax_id = Tax Id: 997-74-8995
+2026-06-11 17:00:06,197 | INFO | client_name = 
+2026-06-11 17:00:06,197 | INFO | client_tax_id = 
+2026-06-11 17:00:06,197 | INFO | invoice_number = no: 11637316
+2026-06-11 17:00:06,198 | INFO | invoice_date = no: 11637316
+2026-06-11 17:00:06,198 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:00:06,198 | INFO | vat = Tax Id: 997-74-8995
+2026-06-11 17:00:06,199 | INFO | gross_worth = 
+2026-06-11 17:00:06,200 | INFO | Processing batch1-0371.jpg
+2026-06-11 17:00:20,033 | INFO | Extracted 46 text rows
+2026-06-11 17:00:20,033 | INFO | seller_name = Client:
+2026-06-11 17:00:20,033 | INFO | seller_tax_id = Tax Id: 982-72-2795
+2026-06-11 17:00:20,034 | INFO | client_name = 
+2026-06-11 17:00:20,034 | INFO | client_tax_id = 
+2026-06-11 17:00:20,034 | INFO | invoice_number = no: 39652805
+2026-06-11 17:00:20,034 | INFO | invoice_date = no: 39652805
+2026-06-11 17:00:20,034 | INFO | net_worth = Net worth VAT [%] Gross worth
+2026-06-11 17:00:20,034 | INFO | vat = Tax Id: 982-72-2795
+2026-06-11 17:00:20,035 | INFO | gross_worth = 
+2026-06-11 17:00:20,036 | INFO | Processing batch1-0372.jpg
+2026-06-11 17:00:33,249 | INFO | Extracted 89 text rows
+2026-06-11 17:00:33,250 | INFO | seller_name = Client:
+2026-06-11 17:00:33,250 | INFO | seller_tax_id = Tax Id: 943-86-1330
+2026-06-11 17:00:33,251 | INFO | client_name = 
+2026-06-11 17:00:33,251 | INFO | client_tax_id = 
+2026-06-11 17:00:33,251 | INFO | invoice_number = no: 15172184
+2026-06-11 17:00:33,251 | INFO | invoice_date = no: 15172184
+2026-06-11 17:00:33,252 | INFO | net_worth = VAT [%] Gross Net worth worth
+2026-06-11 17:00:33,252 | INFO | vat = Tax Id: 943-86-1330
+2026-06-11 17:00:33,252 | INFO | gross_worth = 
+2026-06-11 17:00:33,254 | INFO | Processing batch1-0373.jpg
+2026-06-11 17:00:43,962 | INFO | Extracted 46 text rows
+2026-06-11 17:00:43,962 | INFO | seller_name = Client:
+2026-06-11 17:00:43,962 | INFO | seller_tax_id = Tax Id: 910-94-4040
+2026-06-11 17:00:43,962 | INFO | client_name = 
+2026-06-11 17:00:43,963 | INFO | client_tax_id = 
+2026-06-11 17:00:43,963 | INFO | invoice_number = no: 99454334
+2026-06-11 17:00:43,963 | INFO | invoice_date = no: 99454334
+2026-06-11 17:00:43,963 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:00:43,963 | INFO | vat = Tax Id: 910-94-4040
+2026-06-11 17:00:43,963 | INFO | gross_worth = 
+2026-06-11 17:00:43,965 | INFO | Processing batch1-0374.jpg
+2026-06-11 17:00:55,359 | INFO | Extracted 47 text rows
+2026-06-11 17:00:55,359 | INFO | seller_name = Client:
+2026-06-11 17:00:55,359 | INFO | seller_tax_id = Tax Id: 943-81-3637
+2026-06-11 17:00:55,359 | INFO | client_name = 
+2026-06-11 17:00:55,359 | INFO | client_tax_id = 
+2026-06-11 17:00:55,360 | INFO | invoice_number = no: 87873157
+2026-06-11 17:00:55,360 | INFO | invoice_date = no: 87873157
+2026-06-11 17:00:55,360 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:00:55,360 | INFO | vat = Tax Id: 943-81-3637
+2026-06-11 17:00:55,360 | INFO | gross_worth = 
+2026-06-11 17:00:55,362 | INFO | Processing batch1-0375.jpg
+2026-06-11 17:01:08,617 | INFO | Extracted 99 text rows
+2026-06-11 17:01:08,617 | INFO | seller_name = Client:
+2026-06-11 17:01:08,618 | INFO | seller_tax_id = Tax Id: 924-73-4934
+2026-06-11 17:01:08,618 | INFO | client_name = 
+2026-06-11 17:01:08,618 | INFO | client_tax_id = 
+2026-06-11 17:01:08,618 | INFO | invoice_number = no: 23897213
+2026-06-11 17:01:08,618 | INFO | invoice_date = no: 23897213
+2026-06-11 17:01:08,618 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:01:08,619 | INFO | vat = Tax Id: 924-73-4934
+2026-06-11 17:01:08,619 | INFO | gross_worth = 
+2026-06-11 17:01:08,620 | INFO | Processing batch1-0376.jpg
+2026-06-11 17:01:20,102 | INFO | Extracted 66 text rows
+2026-06-11 17:01:20,102 | INFO | seller_name = Client:
+2026-06-11 17:01:20,102 | INFO | seller_tax_id = Tax Id: 963-87-9848
+2026-06-11 17:01:20,102 | INFO | client_name = 
+2026-06-11 17:01:20,102 | INFO | client_tax_id = 
+2026-06-11 17:01:20,103 | INFO | invoice_number = no: 60518602
+2026-06-11 17:01:20,103 | INFO | invoice_date = no: 60518602
+2026-06-11 17:01:20,103 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:01:20,103 | INFO | vat = Tax Id: 963-87-9848
+2026-06-11 17:01:20,103 | INFO | gross_worth = Leblanc and Sons
+2026-06-11 17:01:20,104 | INFO | Processing batch1-0377.jpg
+2026-06-11 17:01:33,058 | INFO | Extracted 91 text rows
+2026-06-11 17:01:33,059 | INFO | seller_name = Client:
+2026-06-11 17:01:33,059 | INFO | seller_tax_id = Tax Id: 939-96-7563
+2026-06-11 17:01:33,059 | INFO | client_name = 
+2026-06-11 17:01:33,059 | INFO | client_tax_id = 
+2026-06-11 17:01:33,059 | INFO | invoice_number = no: 35259356
+2026-06-11 17:01:33,060 | INFO | invoice_date = no: 35259356
+2026-06-11 17:01:33,060 | INFO | net_worth = price VAT [%] Gross Net worth worth
+2026-06-11 17:01:33,060 | INFO | vat = Tax Id: 939-96-7563
+2026-06-11 17:01:33,060 | INFO | gross_worth = 
+2026-06-11 17:01:33,062 | INFO | Processing batch1-0378.jpg
+2026-06-11 17:01:44,418 | INFO | Extracted 57 text rows
+2026-06-11 17:01:44,418 | INFO | seller_name = Client:
+2026-06-11 17:01:44,419 | INFO | seller_tax_id = Tax Id: 954-81-3871
+2026-06-11 17:01:44,419 | INFO | client_name = 
+2026-06-11 17:01:44,419 | INFO | client_tax_id = 
+2026-06-11 17:01:44,419 | INFO | invoice_number = no: 74263194
+2026-06-11 17:01:44,420 | INFO | invoice_date = no: 74263194
+2026-06-11 17:01:44,420 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:01:44,420 | INFO | vat = Tax Id: 954-81-3871
+2026-06-11 17:01:44,420 | INFO | gross_worth = 
+2026-06-11 17:01:44,422 | INFO | Processing batch1-0379.jpg
+2026-06-11 17:01:57,745 | INFO | Extracted 85 text rows
+2026-06-11 17:01:57,745 | INFO | seller_name = Client:
+2026-06-11 17:01:57,745 | INFO | seller_tax_id = Tax Id: 948-94-1459
+2026-06-11 17:01:57,746 | INFO | client_name = 
+2026-06-11 17:01:57,746 | INFO | client_tax_id = 
+2026-06-11 17:01:57,746 | INFO | invoice_number = no: 59051048
+2026-06-11 17:01:57,746 | INFO | invoice_date = no: 59051048
+2026-06-11 17:01:57,746 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:01:57,746 | INFO | vat = Tax Id: 948-94-1459
+2026-06-11 17:01:57,747 | INFO | gross_worth = 
+2026-06-11 17:01:57,748 | INFO | Processing batch1-0380.jpg
+2026-06-11 17:02:09,728 | INFO | Extracted 70 text rows
+2026-06-11 17:02:09,728 | INFO | seller_name = Client:
+2026-06-11 17:02:09,729 | INFO | seller_tax_id = Tax Id: 999-80-5625
+2026-06-11 17:02:09,729 | INFO | client_name = 
+2026-06-11 17:02:09,729 | INFO | client_tax_id = 
+2026-06-11 17:02:09,729 | INFO | invoice_number = no: 13310164
+2026-06-11 17:02:09,729 | INFO | invoice_date = no: 13310164
+2026-06-11 17:02:09,729 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:02:09,729 | INFO | vat = Tax Id: 999-80-5625
+2026-06-11 17:02:09,730 | INFO | gross_worth = 
+2026-06-11 17:02:09,732 | INFO | Processing batch1-0381.jpg
+2026-06-11 17:02:21,780 | INFO | Extracted 80 text rows
+2026-06-11 17:02:21,781 | INFO | seller_name = Client:
+2026-06-11 17:02:21,781 | INFO | seller_tax_id = Tax Id: 930-74-1829
+2026-06-11 17:02:21,781 | INFO | client_name = 
+2026-06-11 17:02:21,782 | INFO | client_tax_id = 
+2026-06-11 17:02:21,782 | INFO | invoice_number = no: 76272465
+2026-06-11 17:02:21,782 | INFO | invoice_date = no: 76272465
+2026-06-11 17:02:21,782 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:02:21,782 | INFO | vat = Tax Id: 930-74-1829
+2026-06-11 17:02:21,782 | INFO | gross_worth = 
+2026-06-11 17:02:21,792 | INFO | Extraction completed
+2026-06-11 17:06:08,931 | INFO | Initializing OCR engine
+2026-06-11 17:06:08,932 | WARNING | Using CPU. Note: This module is much faster with a GPU.
+2026-06-11 17:06:10,871 | INFO | Invoice extraction started
+2026-06-11 17:06:10,873 | INFO | Processing batch1-0331.jpg
+2026-06-11 17:06:23,212 | INFO | Extracted 56 text rows
+2026-06-11 17:06:23,212 | INFO | seller_name = Client:
+2026-06-11 17:06:23,213 | INFO | seller_tax_id = Tax Id: 965-99-1263
+2026-06-11 17:06:23,213 | INFO | client_name = 
+2026-06-11 17:06:23,213 | INFO | client_tax_id = Tax Id: 965-99-1263
+2026-06-11 17:06:23,213 | INFO | invoice_number = no: 94138597
+2026-06-11 17:06:23,214 | INFO | invoice_date = 02/05/2018
+2026-06-11 17:06:23,214 | INFO | net_worth = VAT [%] Gross Net worth worth
+2026-06-11 17:06:23,214 | INFO | vat = Tax Id: 965-99-1263
+2026-06-11 17:06:23,215 | INFO | gross_worth = 
+2026-06-11 17:06:23,216 | INFO | Processing batch1-0332.jpg
+2026-06-11 17:06:33,150 | INFO | Extracted 47 text rows
+2026-06-11 17:06:33,150 | INFO | seller_name = Client:
+2026-06-11 17:06:33,151 | INFO | seller_tax_id = Tax Id: 956-94-0439
+2026-06-11 17:06:33,151 | INFO | client_name = 
+2026-06-11 17:06:33,152 | INFO | client_tax_id = Tax Id: 956-94-0439
+2026-06-11 17:06:33,152 | INFO | invoice_number = no: 13507183
+2026-06-11 17:06:33,152 | INFO | invoice_date = 09/09/2015
+2026-06-11 17:06:33,153 | INFO | net_worth = VAT [%] Gross Net worth worth
+2026-06-11 17:06:33,153 | INFO | vat = Tax Id: 956-94-0439
+2026-06-11 17:06:33,153 | INFO | gross_worth = 
+2026-06-11 17:06:33,156 | INFO | Processing batch1-0333.jpg
+2026-06-11 17:06:43,118 | INFO | Extracted 47 text rows
+2026-06-11 17:06:43,118 | INFO | seller_name = Client:
+2026-06-11 17:06:43,118 | INFO | seller_tax_id = Tax Id: 988-96-5706
+2026-06-11 17:06:43,119 | INFO | client_name = 
+2026-06-11 17:06:43,119 | INFO | client_tax_id = Tax Id: 988-96-5706
+2026-06-11 17:06:43,119 | INFO | invoice_number = no: 74819543
+2026-06-11 17:06:43,119 | INFO | invoice_date = 10/07/2020
+2026-06-11 17:06:43,120 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:06:43,120 | INFO | vat = Tax Id: 988-96-5706
+2026-06-11 17:06:43,120 | INFO | gross_worth = 
+2026-06-11 17:06:43,122 | INFO | Processing batch1-0334.jpg
+2026-06-11 17:06:53,019 | INFO | Extracted 48 text rows
+2026-06-11 17:06:53,020 | INFO | seller_name = Client:
+2026-06-11 17:06:53,020 | INFO | seller_tax_id = Tax Id: 909-91-4017
+2026-06-11 17:06:53,020 | INFO | client_name = 
+2026-06-11 17:06:53,021 | INFO | client_tax_id = Tax Id: 909-91-4017
+2026-06-11 17:06:53,021 | INFO | invoice_number = no: 65498230
+2026-06-11 17:06:53,021 | INFO | invoice_date = 02/16/2021
+2026-06-11 17:06:53,021 | INFO | net_worth = Unit 6000 Box 9800
+2026-06-11 17:06:53,022 | INFO | vat = Tax Id: 909-91-4017
+2026-06-11 17:06:53,022 | INFO | gross_worth = 
+2026-06-11 17:06:53,024 | INFO | Processing batch1-0335.jpg
+2026-06-11 17:07:06,350 | INFO | Extracted 114 text rows
+2026-06-11 17:07:06,350 | INFO | seller_name = Client:
+2026-06-11 17:07:06,350 | INFO | seller_tax_id = Tax Id: 939-82-6262
+2026-06-11 17:07:06,350 | INFO | client_name = 
+2026-06-11 17:07:06,351 | INFO | client_tax_id = Tax Id: 939-82-6262
+2026-06-11 17:07:06,351 | INFO | invoice_number = no: 51467723
+2026-06-11 17:07:06,351 | INFO | invoice_date = 04/21/2019
+2026-06-11 17:07:06,351 | INFO | net_worth = VAT [%] Gross Net worth worth
+2026-06-11 17:07:06,351 | INFO | vat = Tax Id: 939-82-6262
+2026-06-11 17:07:06,351 | INFO | gross_worth = 
+2026-06-11 17:07:06,353 | INFO | Processing batch1-0336.jpg
+2026-06-11 17:07:17,953 | INFO | Extracted 89 text rows
+2026-06-11 17:07:17,954 | INFO | seller_name = Client:
+2026-06-11 17:07:17,954 | INFO | seller_tax_id = Tax Id: 993-86-3706
+2026-06-11 17:07:17,954 | INFO | client_name = 
+2026-06-11 17:07:17,955 | INFO | client_tax_id = Tax Id: 993-86-3706
+2026-06-11 17:07:17,955 | INFO | invoice_number = no: 97511742
+2026-06-11 17:07:17,955 | INFO | invoice_date = 04/07/2016
+2026-06-11 17:07:17,955 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:07:17,955 | INFO | vat = Tax Id: 993-86-3706
+2026-06-11 17:07:17,956 | INFO | gross_worth = 
+2026-06-11 17:07:17,957 | INFO | Processing batch1-0337.jpg
+2026-06-11 17:07:30,063 | INFO | Extracted 91 text rows
+2026-06-11 17:07:30,063 | INFO | seller_name = Client:
+2026-06-11 17:07:30,064 | INFO | seller_tax_id = Tax Id: 981-88-6259
+2026-06-11 17:07:30,064 | INFO | client_name = 
+2026-06-11 17:07:30,064 | INFO | client_tax_id = Tax Id: 981-88-6259
+2026-06-11 17:07:30,065 | INFO | invoice_number = no: 94098997
+2026-06-11 17:07:30,065 | INFO | invoice_date = 10/04/2020
+2026-06-11 17:07:30,065 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:07:30,066 | INFO | vat = Tax Id: 981-88-6259
+2026-06-11 17:07:30,066 | INFO | gross_worth = 
+2026-06-11 17:07:30,069 | INFO | Processing batch1-0338.jpg
+2026-06-11 17:07:41,750 | INFO | Extracted 80 text rows
+2026-06-11 17:07:41,750 | INFO | seller_name = Client:
+2026-06-11 17:07:41,751 | INFO | seller_tax_id = Tax Id: 998-92-7755
+2026-06-11 17:07:41,751 | INFO | client_name = 
+2026-06-11 17:07:41,751 | INFO | client_tax_id = Tax Id: 998-92-7755
+2026-06-11 17:07:41,751 | INFO | invoice_number = no: 11926242
+2026-06-11 17:07:41,751 | INFO | invoice_date = 03/01/2012
+2026-06-11 17:07:41,752 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:07:41,752 | INFO | vat = Tax Id: 998-92-7755
+2026-06-11 17:07:41,752 | INFO | gross_worth = 
+2026-06-11 17:07:41,754 | INFO | Processing batch1-0339.jpg
+2026-06-11 17:07:54,123 | INFO | Extracted 111 text rows
+2026-06-11 17:07:54,124 | INFO | seller_name = Client:
+2026-06-11 17:07:54,124 | INFO | seller_tax_id = Tax Id: 967-80-5679
+2026-06-11 17:07:54,124 | INFO | client_name = 
+2026-06-11 17:07:54,124 | INFO | client_tax_id = Tax Id: 967-80-5679
+2026-06-11 17:07:54,125 | INFO | invoice_number = no: 48531206
+2026-06-11 17:07:54,125 | INFO | invoice_date = 08/03/2019
+2026-06-11 17:07:54,125 | INFO | net_worth = Le, Lawson and Rios
+2026-06-11 17:07:54,125 | INFO | vat = Tax Id: 967-80-5679
+2026-06-11 17:07:54,126 | INFO | gross_worth = 
+2026-06-11 17:07:54,128 | INFO | Processing batch1-0340.jpg
+2026-06-11 17:08:04,750 | INFO | Extracted 64 text rows
+2026-06-11 17:08:04,750 | INFO | seller_name = Client:
+2026-06-11 17:08:04,751 | INFO | seller_tax_id = Tax Id: 999-86-4010
+2026-06-11 17:08:04,751 | INFO | client_name = 
+2026-06-11 17:08:04,751 | INFO | client_tax_id = Tax Id: 999-86-4010
+2026-06-11 17:08:04,751 | INFO | invoice_number = no: 82977013
+2026-06-11 17:08:04,752 | INFO | invoice_date = 12/06/2013
+2026-06-11 17:08:04,752 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:08:04,752 | INFO | vat = Tax Id: 999-86-4010
+2026-06-11 17:08:04,753 | INFO | gross_worth = 
+2026-06-11 17:08:04,755 | INFO | Processing batch1-0341.jpg
+2026-06-11 17:08:17,899 | INFO | Extracted 86 text rows
+2026-06-11 17:08:17,900 | INFO | seller_name = Client:
+2026-06-11 17:08:17,900 | INFO | seller_tax_id = Tax Id: 918-70-1520
+2026-06-11 17:08:17,900 | INFO | client_name = 
+2026-06-11 17:08:17,901 | INFO | client_tax_id = Tax Id: 918-70-1520
+2026-06-11 17:08:17,901 | INFO | invoice_number = no: 86225018
+2026-06-11 17:08:17,901 | INFO | invoice_date = 12/18/2015
+2026-06-11 17:08:17,902 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:08:17,902 | INFO | vat = Tax Id: 918-70-1520
+2026-06-11 17:08:17,903 | INFO | gross_worth = 
+2026-06-11 17:08:17,905 | INFO | Processing batch1-0342.jpg
+2026-06-11 17:08:29,690 | INFO | Extracted 57 text rows
+2026-06-11 17:08:29,690 | INFO | seller_name = Client:
+2026-06-11 17:08:29,691 | INFO | seller_tax_id = Tax Id: 992-88-6386
+2026-06-11 17:08:29,691 | INFO | client_name = 
+2026-06-11 17:08:29,691 | INFO | client_tax_id = Tax Id: 992-88-6386
+2026-06-11 17:08:29,691 | INFO | invoice_number = no: 79064100
+2026-06-11 17:08:29,691 | INFO | invoice_date = 05/25/2018
+2026-06-11 17:08:29,691 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:08:29,692 | INFO | vat = Tax Id: 992-88-6386
+2026-06-11 17:08:29,692 | INFO | gross_worth = 
+2026-06-11 17:08:29,693 | INFO | Processing batch1-0343.jpg
+2026-06-11 17:08:42,337 | INFO | Extracted 67 text rows
+2026-06-11 17:08:42,338 | INFO | seller_name = Client:
+2026-06-11 17:08:42,338 | INFO | seller_tax_id = Tax Id: 952-75-5780
+2026-06-11 17:08:42,338 | INFO | client_name = 
+2026-06-11 17:08:42,338 | INFO | client_tax_id = Tax Id: 952-75-5780
+2026-06-11 17:08:42,338 | INFO | invoice_number = no: 69057610
+2026-06-11 17:08:42,338 | INFO | invoice_date = 08/20/2013
+2026-06-11 17:08:42,339 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:08:42,339 | INFO | vat = Tax Id: 952-75-5780
+2026-06-11 17:08:42,339 | INFO | gross_worth = 
+2026-06-11 17:08:42,340 | INFO | Processing batch1-0344.jpg
+2026-06-11 17:08:55,878 | INFO | Extracted 102 text rows
+2026-06-11 17:08:55,878 | INFO | seller_name = Client:
+2026-06-11 17:08:55,878 | INFO | seller_tax_id = Tax Id: 936-85-0485
+2026-06-11 17:08:55,879 | INFO | client_name = 
+2026-06-11 17:08:55,879 | INFO | client_tax_id = Tax Id: 936-85-0485
+2026-06-11 17:08:55,879 | INFO | invoice_number = no: 85473134
+2026-06-11 17:08:55,879 | INFO | invoice_date = 04/24/2017
+2026-06-11 17:08:55,879 | INFO | net_worth = VAT [%] Gross Net worth worth
+2026-06-11 17:08:55,879 | INFO | vat = Tax Id: 936-85-0485
+2026-06-11 17:08:55,880 | INFO | gross_worth = 
+2026-06-11 17:08:55,881 | INFO | Processing batch1-0345.jpg
+2026-06-11 17:09:08,460 | INFO | Extracted 88 text rows
+2026-06-11 17:09:08,460 | INFO | seller_name = Client:
+2026-06-11 17:09:08,461 | INFO | seller_tax_id = Tax Id: 992-84-7640
+2026-06-11 17:09:08,461 | INFO | client_name = 
+2026-06-11 17:09:08,461 | INFO | client_tax_id = Tax Id: 992-84-7640
+2026-06-11 17:09:08,462 | INFO | invoice_number = no: 92919413
+2026-06-11 17:09:08,462 | INFO | invoice_date = 10/04/2020
+2026-06-11 17:09:08,462 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:09:08,463 | INFO | vat = Tax Id: 992-84-7640
+2026-06-11 17:09:08,463 | INFO | gross_worth = 
+2026-06-11 17:09:08,465 | INFO | Processing batch1-0346.jpg
+2026-06-11 17:09:21,395 | INFO | Extracted 77 text rows
+2026-06-11 17:09:21,395 | INFO | seller_name = Client:
+2026-06-11 17:09:21,395 | INFO | seller_tax_id = Tax Id: 934-84-4841
+2026-06-11 17:09:21,395 | INFO | client_name = 
+2026-06-11 17:09:21,396 | INFO | client_tax_id = Tax Id: 934-84-4841
+2026-06-11 17:09:21,396 | INFO | invoice_number = no: 49380136
+2026-06-11 17:09:21,396 | INFO | invoice_date = 02/21/2019
+2026-06-11 17:09:21,396 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:09:21,396 | INFO | vat = Tax Id: 934-84-4841
+2026-06-11 17:09:21,397 | INFO | gross_worth = 
+2026-06-11 17:09:21,398 | INFO | Processing batch1-0347.jpg
+2026-06-11 17:09:33,398 | INFO | Extracted 67 text rows
+2026-06-11 17:09:33,398 | INFO | seller_name = Client:
+2026-06-11 17:09:33,398 | INFO | seller_tax_id = Tax Id: 981-79-3397
+2026-06-11 17:09:33,398 | INFO | client_name = 
+2026-06-11 17:09:33,399 | INFO | client_tax_id = Tax Id: 981-79-3397
+2026-06-11 17:09:33,399 | INFO | invoice_number = no: 89042780
+2026-06-11 17:09:33,399 | INFO | invoice_date = 10/16/2015
+2026-06-11 17:09:33,399 | INFO | net_worth = VAT [%] Gross Net worth worth
+2026-06-11 17:09:33,400 | INFO | vat = Tax Id: 981-79-3397
+2026-06-11 17:09:33,400 | INFO | gross_worth = 
+2026-06-11 17:09:33,403 | INFO | Processing batch1-0348.jpg
+2026-06-11 17:09:47,288 | INFO | Extracted 107 text rows
+2026-06-11 17:09:47,289 | INFO | seller_name = Client:
+2026-06-11 17:09:47,289 | INFO | seller_tax_id = Tax Id: 997-98-1436
+2026-06-11 17:09:47,289 | INFO | client_name = 
+2026-06-11 17:09:47,290 | INFO | client_tax_id = Tax Id: 997-98-1436
+2026-06-11 17:09:47,290 | INFO | invoice_number = no: 50956755
+2026-06-11 17:09:47,290 | INFO | invoice_date = 09/06/2019
+2026-06-11 17:09:47,290 | INFO | net_worth = VAT [%] Gross Net worth worth
+2026-06-11 17:09:47,291 | INFO | vat = Tax Id: 997-98-1436
+2026-06-11 17:09:47,291 | INFO | gross_worth = 
+2026-06-11 17:09:47,293 | INFO | Processing batch1-0349.jpg
+2026-06-11 17:09:59,655 | INFO | Extracted 87 text rows
+2026-06-11 17:09:59,656 | INFO | seller_name = Client:
+2026-06-11 17:09:59,656 | INFO | seller_tax_id = Tax Id: 944-87-7634
+2026-06-11 17:09:59,656 | INFO | client_name = 
+2026-06-11 17:09:59,657 | INFO | client_tax_id = Tax Id: 944-87-7634
+2026-06-11 17:09:59,657 | INFO | invoice_number = no: 39571754
+2026-06-11 17:09:59,657 | INFO | invoice_date = 07/03/2013
+2026-06-11 17:09:59,658 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:09:59,658 | INFO | vat = Tax Id: 944-87-7634
+2026-06-11 17:09:59,659 | INFO | gross_worth = 
+2026-06-11 17:09:59,661 | INFO | Processing batch1-0350.jpg
+2026-06-11 17:10:12,504 | INFO | Extracted 89 text rows
+2026-06-11 17:10:12,505 | INFO | seller_name = Client:
+2026-06-11 17:10:12,505 | INFO | seller_tax_id = Tax Id: 925-92-0610
+2026-06-11 17:10:12,505 | INFO | client_name = 
+2026-06-11 17:10:12,505 | INFO | client_tax_id = Tax Id: 925-92-0610
+2026-06-11 17:10:12,505 | INFO | invoice_number = no: 39077025
+2026-06-11 17:10:12,506 | INFO | invoice_date = 12/15/2011
+2026-06-11 17:10:12,506 | INFO | net_worth = VAT [%] Gross Net worth worth
+2026-06-11 17:10:12,506 | INFO | vat = Tax Id: 925-92-0610
+2026-06-11 17:10:12,506 | INFO | gross_worth = 
+2026-06-11 17:10:12,508 | INFO | Processing batch1-0351.jpg
+2026-06-11 17:10:23,492 | INFO | Extracted 48 text rows
+2026-06-11 17:10:23,492 | INFO | seller_name = Client:
+2026-06-11 17:10:23,492 | INFO | seller_tax_id = Tax Id: 924-90-5219
+2026-06-11 17:10:23,492 | INFO | client_name = 
+2026-06-11 17:10:23,493 | INFO | client_tax_id = Tax Id: 924-90-5219
+2026-06-11 17:10:23,493 | INFO | invoice_number = no: 77015917
+2026-06-11 17:10:23,493 | INFO | invoice_date = 12/21/2017
+2026-06-11 17:10:23,493 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:10:23,493 | INFO | vat = Tax Id: 924-90-5219
+2026-06-11 17:10:23,494 | INFO | gross_worth = 
+2026-06-11 17:10:23,495 | INFO | Processing batch1-0352.jpg
+2026-06-11 17:10:36,549 | INFO | Extracted 98 text rows
+2026-06-11 17:10:36,549 | INFO | seller_name = Client:
+2026-06-11 17:10:36,549 | INFO | seller_tax_id = Tax Id: 906-94-4177
+2026-06-11 17:10:36,550 | INFO | client_name = 
+2026-06-11 17:10:36,550 | INFO | client_tax_id = Tax Id: 906-94-4177
+2026-06-11 17:10:36,550 | INFO | invoice_number = no: 50554106
+2026-06-11 17:10:36,550 | INFO | invoice_date = 12/17/2012
+2026-06-11 17:10:36,550 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:10:36,550 | INFO | vat = Tax Id: 906-94-4177
+2026-06-11 17:10:36,551 | INFO | gross_worth = 
+2026-06-11 17:10:36,552 | INFO | Processing batch1-0353.jpg
+2026-06-11 17:10:49,138 | INFO | Extracted 80 text rows
+2026-06-11 17:10:49,138 | INFO | seller_name = Client:
+2026-06-11 17:10:49,138 | INFO | seller_tax_id = Tax Id: 988-88-5388
+2026-06-11 17:10:49,139 | INFO | client_name = 
+2026-06-11 17:10:49,139 | INFO | client_tax_id = Tax Id: 988-88-5388
+2026-06-11 17:10:49,139 | INFO | invoice_number = no: 10819011
+2026-06-11 17:10:49,139 | INFO | invoice_date = 02/09/2018
+2026-06-11 17:10:49,139 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:10:49,139 | INFO | vat = Tax Id: 988-88-5388
+2026-06-11 17:10:49,140 | INFO | gross_worth = 
+2026-06-11 17:10:49,141 | INFO | Processing batch1-0354.jpg
+2026-06-11 17:11:01,501 | INFO | Extracted 88 text rows
+2026-06-11 17:11:01,502 | INFO | seller_name = Client:
+2026-06-11 17:11:01,502 | INFO | seller_tax_id = Tax Id: 977-75-8747
+2026-06-11 17:11:01,503 | INFO | client_name = 
+2026-06-11 17:11:01,503 | INFO | client_tax_id = Tax Id: 977-75-8747
+2026-06-11 17:11:01,503 | INFO | invoice_number = no: 49929761
+2026-06-11 17:11:01,503 | INFO | invoice_date = 02/04/2021
+2026-06-11 17:11:01,503 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:11:01,504 | INFO | vat = Tax Id: 977-75-8747
+2026-06-11 17:11:01,504 | INFO | gross_worth = 
+2026-06-11 17:11:01,506 | INFO | Processing batch1-0355.jpg
+2026-06-11 17:14:56,757 | INFO | Extracted 74 text rows
+2026-06-11 17:14:56,758 | INFO | seller_name = Client:
+2026-06-11 17:14:56,758 | INFO | seller_tax_id = Tax Id: 907-98-7260
+2026-06-11 17:14:56,758 | INFO | client_name = 
+2026-06-11 17:14:56,758 | INFO | client_tax_id = Tax Id: 907-98-7260
+2026-06-11 17:14:56,758 | INFO | invoice_number = no: 92179921
+2026-06-11 17:14:56,759 | INFO | invoice_date = 10/11/2012
+2026-06-11 17:14:56,759 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:14:56,760 | INFO | vat = Tax Id: 907-98-7260
+2026-06-11 17:14:56,761 | INFO | gross_worth = 
+2026-06-11 17:14:56,767 | INFO | Processing batch1-0356.jpg
+2026-06-11 17:20:59,397 | INFO | Extracted 48 text rows
+2026-06-11 17:20:59,397 | INFO | seller_name = Client:
+2026-06-11 17:20:59,397 | INFO | seller_tax_id = Tax Id: 926-74-8186
+2026-06-11 17:20:59,397 | INFO | client_name = 
+2026-06-11 17:20:59,397 | INFO | client_tax_id = Tax Id: 926-74-8186
+2026-06-11 17:20:59,398 | INFO | invoice_number = no: 23385207
+2026-06-11 17:20:59,398 | INFO | invoice_date = 06/23/2012
+2026-06-11 17:20:59,398 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:20:59,398 | INFO | vat = Tax Id: 926-74-8186
+2026-06-11 17:20:59,398 | INFO | gross_worth = 
+2026-06-11 17:20:59,399 | INFO | Processing batch1-0357.jpg
+2026-06-11 17:21:09,435 | INFO | Extracted 69 text rows
+2026-06-11 17:21:09,435 | INFO | seller_name = Client:
+2026-06-11 17:21:09,435 | INFO | seller_tax_id = Tax Id: 968-92-5785
+2026-06-11 17:21:09,435 | INFO | client_name = 
+2026-06-11 17:21:09,435 | INFO | client_tax_id = Tax Id: 968-92-5785
+2026-06-11 17:21:09,435 | INFO | invoice_number = no: 19507687
+2026-06-11 17:21:09,436 | INFO | invoice_date = 09/19/2018
+2026-06-11 17:21:09,436 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:21:09,436 | INFO | vat = Tax Id: 968-92-5785
+2026-06-11 17:21:09,436 | INFO | gross_worth = 
+2026-06-11 17:21:09,437 | INFO | Processing batch1-0358.jpg
+2026-06-11 17:21:18,661 | INFO | Extracted 48 text rows
+2026-06-11 17:21:18,662 | INFO | seller_name = Client:
+2026-06-11 17:21:18,662 | INFO | seller_tax_id = Tax Id: 968-87-5481
+2026-06-11 17:21:18,662 | INFO | client_name = 
+2026-06-11 17:21:18,662 | INFO | client_tax_id = Tax Id: 968-87-5481
+2026-06-11 17:21:18,663 | INFO | invoice_number = no: 61660848
+2026-06-11 17:21:18,663 | INFO | invoice_date = 05/30/2019
+2026-06-11 17:21:18,663 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:21:18,664 | INFO | vat = Tax Id: 968-87-5481
+2026-06-11 17:21:18,664 | INFO | gross_worth = 
+2026-06-11 17:21:18,666 | INFO | Processing batch1-0359.jpg
+2026-06-11 17:21:28,883 | INFO | Extracted 56 text rows
+2026-06-11 17:21:28,884 | INFO | seller_name = Client:
+2026-06-11 17:21:28,884 | INFO | seller_tax_id = Tax Id: 943-83-6136
+2026-06-11 17:21:28,884 | INFO | client_name = 
+2026-06-11 17:21:28,885 | INFO | client_tax_id = Tax Id: 943-83-6136
+2026-06-11 17:21:28,885 | INFO | invoice_number = no: 29534383
+2026-06-11 17:21:28,885 | INFO | invoice_date = 05/30/2017
+2026-06-11 17:21:28,886 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:21:28,886 | INFO | vat = Tax Id: 943-83-6136
+2026-06-11 17:21:28,887 | INFO | gross_worth = 
+2026-06-11 17:21:28,889 | INFO | Processing batch1-0360.jpg
+2026-06-11 17:21:40,199 | INFO | Extracted 78 text rows
+2026-06-11 17:21:40,200 | INFO | seller_name = Client:
+2026-06-11 17:21:40,200 | INFO | seller_tax_id = Tax Id: 952-95-0332
+2026-06-11 17:21:40,200 | INFO | client_name = 
+2026-06-11 17:21:40,201 | INFO | client_tax_id = Tax Id: 952-95-0332
+2026-06-11 17:21:40,201 | INFO | invoice_number = no: 58126171
+2026-06-11 17:21:40,201 | INFO | invoice_date = 08/14/2015
+2026-06-11 17:21:40,201 | INFO | net_worth = VAT [%] Gross Net worth worth
+2026-06-11 17:21:40,201 | INFO | vat = Tax Id: 952-95-0332
+2026-06-11 17:21:40,202 | INFO | gross_worth = 
+2026-06-11 17:21:40,203 | INFO | Processing batch1-0361.jpg
+2026-06-11 17:21:52,236 | INFO | Extracted 96 text rows
+2026-06-11 17:21:52,236 | INFO | seller_name = Client:
+2026-06-11 17:21:52,237 | INFO | seller_tax_id = Tax Id: 907-73-8031
+2026-06-11 17:21:52,237 | INFO | client_name = 
+2026-06-11 17:21:52,237 | INFO | client_tax_id = Tax Id: 907-73-8031
+2026-06-11 17:21:52,238 | INFO | invoice_number = no: 86575728
+2026-06-11 17:21:52,238 | INFO | invoice_date = 11/24/2014
+2026-06-11 17:21:52,239 | INFO | net_worth = VAT [%] Gross Net worth worth
+2026-06-11 17:21:52,239 | INFO | vat = Tax Id: 907-73-8031
+2026-06-11 17:21:52,239 | INFO | gross_worth = 
+2026-06-11 17:21:52,242 | INFO | Processing batch1-0362.jpg
+2026-06-11 17:22:03,371 | INFO | Extracted 87 text rows
+2026-06-11 17:22:03,371 | INFO | seller_name = Client:
+2026-06-11 17:22:03,372 | INFO | seller_tax_id = Tax Id: 915-85-0288
+2026-06-11 17:22:03,372 | INFO | client_name = 
+2026-06-11 17:22:03,372 | INFO | client_tax_id = Tax Id: 915-85-0288
+2026-06-11 17:22:03,372 | INFO | invoice_number = no: 76628307
+2026-06-11 17:22:03,372 | INFO | invoice_date = 05/05/2019
+2026-06-11 17:22:03,373 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:22:03,373 | INFO | vat = Tax Id: 915-85-0288
+2026-06-11 17:22:03,373 | INFO | gross_worth = 
+2026-06-11 17:22:03,374 | INFO | Processing batch1-0363.jpg
+2026-06-11 17:22:13,539 | INFO | Extracted 47 text rows
+2026-06-11 17:22:13,539 | INFO | seller_name = Client:
+2026-06-11 17:22:13,540 | INFO | seller_tax_id = Tax Id: 923-84-5244
+2026-06-11 17:22:13,540 | INFO | client_name = 
+2026-06-11 17:22:13,540 | INFO | client_tax_id = Tax Id: 923-84-5244
+2026-06-11 17:22:13,541 | INFO | invoice_number = no: 16499996
+2026-06-11 17:22:13,541 | INFO | invoice_date = 05/05/2019
+2026-06-11 17:22:13,541 | INFO | net_worth = VAT [%] Gross Net worth worth
+2026-06-11 17:22:13,542 | INFO | vat = Tax Id: 923-84-5244
+2026-06-11 17:22:13,542 | INFO | gross_worth = 
+2026-06-11 17:22:13,544 | INFO | Processing batch1-0364.jpg
+2026-06-11 17:22:24,456 | INFO | Extracted 57 text rows
+2026-06-11 17:22:24,457 | INFO | seller_name = Client:
+2026-06-11 17:22:24,457 | INFO | seller_tax_id = Tax Id: 988-84-2670
+2026-06-11 17:22:24,457 | INFO | client_name = 
+2026-06-11 17:22:24,457 | INFO | client_tax_id = Tax Id: 988-84-2670
+2026-06-11 17:22:24,457 | INFO | invoice_number = no: 61113263
+2026-06-11 17:22:24,458 | INFO | invoice_date = 02/04/2014
+2026-06-11 17:22:24,458 | INFO | net_worth = VAT [%] Gross Net worth worth
+2026-06-11 17:22:24,458 | INFO | vat = Tax Id: 988-84-2670
+2026-06-11 17:22:24,458 | INFO | gross_worth = 
+2026-06-11 17:22:24,460 | INFO | Processing batch1-0365.jpg
+2026-06-11 17:22:36,878 | INFO | Extracted 103 text rows
+2026-06-11 17:22:36,879 | INFO | seller_name = Client:
+2026-06-11 17:22:36,879 | INFO | seller_tax_id = Tax Id: 932-73-0621
+2026-06-11 17:22:36,879 | INFO | client_name = 
+2026-06-11 17:22:36,879 | INFO | client_tax_id = Tax Id: 932-73-0621
+2026-06-11 17:22:36,880 | INFO | invoice_number = no: 41887329
+2026-06-11 17:22:36,880 | INFO | invoice_date = 11/26/2020
+2026-06-11 17:22:36,880 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:22:36,881 | INFO | vat = Tax Id: 932-73-0621
+2026-06-11 17:22:36,881 | INFO | gross_worth = 
+2026-06-11 17:22:36,883 | INFO | Processing batch1-0366.jpg
+2026-06-11 17:22:49,474 | INFO | Extracted 104 text rows
+2026-06-11 17:22:49,474 | INFO | seller_name = Client:
+2026-06-11 17:22:49,475 | INFO | seller_tax_id = Tax Id: 963-76-2257
+2026-06-11 17:22:49,475 | INFO | client_name = 
+2026-06-11 17:22:49,475 | INFO | client_tax_id = Tax Id: 963-76-2257
+2026-06-11 17:22:49,475 | INFO | invoice_number = no: 74583312
+2026-06-11 17:22:49,475 | INFO | invoice_date = 05/05/2015
+2026-06-11 17:22:49,476 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:22:49,476 | INFO | vat = Tax Id: 963-76-2257
+2026-06-11 17:22:49,476 | INFO | gross_worth = 
+2026-06-11 17:22:49,478 | INFO | Processing batch1-0367.jpg
+2026-06-11 17:23:01,652 | INFO | Extracted 90 text rows
+2026-06-11 17:23:01,653 | INFO | seller_name = Client:
+2026-06-11 17:23:01,653 | INFO | seller_tax_id = Tax Id: 932-85-2181
+2026-06-11 17:23:01,653 | INFO | client_name = 
+2026-06-11 17:23:01,653 | INFO | client_tax_id = Tax Id: 932-85-2181
+2026-06-11 17:23:01,654 | INFO | invoice_number = no: 23995139
+2026-06-11 17:23:01,654 | INFO | invoice_date = 05/30/2015
+2026-06-11 17:23:01,654 | INFO | net_worth = VAT [%] Gross Net worth worth
+2026-06-11 17:23:01,655 | INFO | vat = Tax Id: 932-85-2181
+2026-06-11 17:23:01,655 | INFO | gross_worth = 
+2026-06-11 17:23:01,657 | INFO | Processing batch1-0368.jpg
+2026-06-11 17:23:11,955 | INFO | Extracted 57 text rows
+2026-06-11 17:23:11,956 | INFO | seller_name = Client:
+2026-06-11 17:23:11,956 | INFO | seller_tax_id = Tax Id: 905-94-4635
+2026-06-11 17:23:11,956 | INFO | client_name = 
+2026-06-11 17:23:11,956 | INFO | client_tax_id = Tax Id: 905-94-4635
+2026-06-11 17:23:11,956 | INFO | invoice_number = no: 87934175
+2026-06-11 17:23:11,957 | INFO | invoice_date = 10/19/2016
+2026-06-11 17:23:11,957 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:23:11,957 | INFO | vat = Tax Id: 905-94-4635
+2026-06-11 17:23:11,957 | INFO | gross_worth = 
+2026-06-11 17:23:11,959 | INFO | Processing batch1-0369.jpg
+2026-06-11 17:23:24,408 | INFO | Extracted 93 text rows
+2026-06-11 17:23:24,409 | INFO | seller_name = Client:
+2026-06-11 17:23:24,409 | INFO | seller_tax_id = Tax Id: 911-83-0636
+2026-06-11 17:23:24,409 | INFO | client_name = 
+2026-06-11 17:23:24,409 | INFO | client_tax_id = Tax Id: 911-83-0636
+2026-06-11 17:23:24,410 | INFO | invoice_number = no: 64809205
+2026-06-11 17:23:24,410 | INFO | invoice_date = 08/18/2014
+2026-06-11 17:23:24,410 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:23:24,410 | INFO | vat = Tax Id: 911-83-0636
+2026-06-11 17:23:24,411 | INFO | gross_worth = 
+2026-06-11 17:23:24,413 | INFO | Processing batch1-0370.jpg
+2026-06-11 17:23:35,381 | INFO | Extracted 88 text rows
+2026-06-11 17:23:35,382 | INFO | seller_name = Client:
+2026-06-11 17:23:35,382 | INFO | seller_tax_id = Tax Id: 997-74-8995
+2026-06-11 17:23:35,382 | INFO | client_name = 
+2026-06-11 17:23:35,383 | INFO | client_tax_id = Tax Id: 997-74-8995
+2026-06-11 17:23:35,383 | INFO | invoice_number = no: 11637316
+2026-06-11 17:23:35,383 | INFO | invoice_date = 03/21/2015
+2026-06-11 17:23:35,383 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:23:35,384 | INFO | vat = Tax Id: 997-74-8995
+2026-06-11 17:23:35,384 | INFO | gross_worth = 
+2026-06-11 17:23:35,386 | INFO | Processing batch1-0371.jpg
+2026-06-11 17:23:45,064 | INFO | Extracted 46 text rows
+2026-06-11 17:23:45,064 | INFO | seller_name = Client:
+2026-06-11 17:23:45,065 | INFO | seller_tax_id = Tax Id: 982-72-2795
+2026-06-11 17:23:45,065 | INFO | client_name = 
+2026-06-11 17:23:45,065 | INFO | client_tax_id = Tax Id: 982-72-2795
+2026-06-11 17:23:45,065 | INFO | invoice_number = no: 39652805
+2026-06-11 17:23:45,066 | INFO | invoice_date = 03/20/2020
+2026-06-11 17:23:45,066 | INFO | net_worth = Net worth VAT [%] Gross worth
+2026-06-11 17:23:45,066 | INFO | vat = Tax Id: 982-72-2795
+2026-06-11 17:23:45,066 | INFO | gross_worth = 
+2026-06-11 17:23:45,068 | INFO | Processing batch1-0372.jpg
+2026-06-11 17:23:57,219 | INFO | Extracted 89 text rows
+2026-06-11 17:23:57,219 | INFO | seller_name = Client:
+2026-06-11 17:23:57,219 | INFO | seller_tax_id = Tax Id: 943-86-1330
+2026-06-11 17:23:57,220 | INFO | client_name = 
+2026-06-11 17:23:57,220 | INFO | client_tax_id = Tax Id: 943-86-1330
+2026-06-11 17:23:57,220 | INFO | invoice_number = no: 15172184
+2026-06-11 17:23:57,220 | INFO | invoice_date = 08/24/2017
+2026-06-11 17:23:57,221 | INFO | net_worth = VAT [%] Gross Net worth worth
+2026-06-11 17:23:57,221 | INFO | vat = Tax Id: 943-86-1330
+2026-06-11 17:23:57,221 | INFO | gross_worth = 
+2026-06-11 17:23:57,223 | INFO | Processing batch1-0373.jpg
+2026-06-11 17:24:09,690 | INFO | Extracted 46 text rows
+2026-06-11 17:24:09,691 | INFO | seller_name = Client:
+2026-06-11 17:24:09,691 | INFO | seller_tax_id = Tax Id: 910-94-4040
+2026-06-11 17:24:09,691 | INFO | client_name = 
+2026-06-11 17:24:09,692 | INFO | client_tax_id = Tax Id: 910-94-4040
+2026-06-11 17:24:09,692 | INFO | invoice_number = no: 99454334
+2026-06-11 17:24:09,692 | INFO | invoice_date = 07/08/2017
+2026-06-11 17:24:09,692 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:24:09,692 | INFO | vat = Tax Id: 910-94-4040
+2026-06-11 17:24:09,693 | INFO | gross_worth = 
+2026-06-11 17:24:09,694 | INFO | Processing batch1-0374.jpg
+2026-06-11 17:24:20,390 | INFO | Extracted 47 text rows
+2026-06-11 17:24:20,390 | INFO | seller_name = Client:
+2026-06-11 17:24:20,391 | INFO | seller_tax_id = Tax Id: 943-81-3637
+2026-06-11 17:24:20,391 | INFO | client_name = 
+2026-06-11 17:24:20,391 | INFO | client_tax_id = Tax Id: 943-81-3637
+2026-06-11 17:24:20,391 | INFO | invoice_number = no: 87873157
+2026-06-11 17:24:20,391 | INFO | invoice_date = 05/09/2017
+2026-06-11 17:24:20,391 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:24:20,392 | INFO | vat = Tax Id: 943-81-3637
+2026-06-11 17:24:20,392 | INFO | gross_worth = 
+2026-06-11 17:24:20,393 | INFO | Processing batch1-0375.jpg
+2026-06-11 17:43:14,639 | INFO | Extracted 99 text rows
+2026-06-11 17:43:14,639 | INFO | seller_name = Client:
+2026-06-11 17:43:14,639 | INFO | seller_tax_id = Tax Id: 924-73-4934
+2026-06-11 17:43:14,640 | INFO | client_name = 
+2026-06-11 17:43:14,640 | INFO | client_tax_id = Tax Id: 924-73-4934
+2026-06-11 17:43:14,640 | INFO | invoice_number = no: 23897213
+2026-06-11 17:43:14,640 | INFO | invoice_date = 07/14/2019
+2026-06-11 17:43:14,640 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:43:14,641 | INFO | vat = Tax Id: 924-73-4934
+2026-06-11 17:43:14,641 | INFO | gross_worth = 
+2026-06-11 17:43:14,643 | INFO | Processing batch1-0376.jpg
+2026-06-11 17:43:40,978 | INFO | Extracted 66 text rows
+2026-06-11 17:43:40,978 | INFO | seller_name = Client:
+2026-06-11 17:43:40,979 | INFO | seller_tax_id = Tax Id: 963-87-9848
+2026-06-11 17:43:40,979 | INFO | client_name = 
+2026-06-11 17:43:40,980 | INFO | client_tax_id = Tax Id: 963-87-9848
+2026-06-11 17:43:40,980 | INFO | invoice_number = no: 60518602
+2026-06-11 17:43:40,980 | INFO | invoice_date = 08/30/2016
+2026-06-11 17:43:40,981 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:43:40,981 | INFO | vat = Tax Id: 963-87-9848
+2026-06-11 17:43:40,982 | INFO | gross_worth = Leblanc and Sons
+2026-06-11 17:43:40,987 | INFO | Processing batch1-0377.jpg
+2026-06-11 17:43:54,918 | INFO | Extracted 91 text rows
+2026-06-11 17:43:54,919 | INFO | seller_name = Client:
+2026-06-11 17:43:54,919 | INFO | seller_tax_id = Tax Id: 939-96-7563
+2026-06-11 17:43:54,919 | INFO | client_name = 
+2026-06-11 17:43:54,920 | INFO | client_tax_id = Tax Id: 939-96-7563
+2026-06-11 17:43:54,920 | INFO | invoice_number = no: 35259356
+2026-06-11 17:43:54,920 | INFO | invoice_date = 01/20/2018
+2026-06-11 17:43:54,920 | INFO | net_worth = price VAT [%] Gross Net worth worth
+2026-06-11 17:43:54,920 | INFO | vat = Tax Id: 939-96-7563
+2026-06-11 17:43:54,921 | INFO | gross_worth = 
+2026-06-11 17:43:54,923 | INFO | Processing batch1-0378.jpg
+2026-06-11 17:44:04,103 | INFO | Extracted 57 text rows
+2026-06-11 17:44:04,103 | INFO | seller_name = Client:
+2026-06-11 17:44:04,103 | INFO | seller_tax_id = Tax Id: 954-81-3871
+2026-06-11 17:44:04,104 | INFO | client_name = 
+2026-06-11 17:44:04,104 | INFO | client_tax_id = Tax Id: 954-81-3871
+2026-06-11 17:44:04,104 | INFO | invoice_number = no: 74263194
+2026-06-11 17:44:04,104 | INFO | invoice_date = 03/28/2020
+2026-06-11 17:44:04,105 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:44:04,105 | INFO | vat = Tax Id: 954-81-3871
+2026-06-11 17:44:04,106 | INFO | gross_worth = 
+2026-06-11 17:44:04,108 | INFO | Processing batch1-0379.jpg
+2026-06-11 17:44:17,695 | INFO | Extracted 85 text rows
+2026-06-11 17:44:17,696 | INFO | seller_name = Client:
+2026-06-11 17:44:17,696 | INFO | seller_tax_id = Tax Id: 948-94-1459
+2026-06-11 17:44:17,697 | INFO | client_name = 
+2026-06-11 17:44:17,697 | INFO | client_tax_id = Tax Id: 948-94-1459
+2026-06-11 17:44:17,697 | INFO | invoice_number = no: 59051048
+2026-06-11 17:44:17,697 | INFO | invoice_date = 12/12/2015
+2026-06-11 17:44:17,697 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:44:17,698 | INFO | vat = Tax Id: 948-94-1459
+2026-06-11 17:44:17,698 | INFO | gross_worth = 
+2026-06-11 17:44:17,701 | INFO | Processing batch1-0380.jpg
+2026-06-11 17:44:29,404 | INFO | Extracted 70 text rows
+2026-06-11 17:44:29,405 | INFO | seller_name = Client:
+2026-06-11 17:44:29,405 | INFO | seller_tax_id = Tax Id: 999-80-5625
+2026-06-11 17:44:29,405 | INFO | client_name = 
+2026-06-11 17:44:29,405 | INFO | client_tax_id = Tax Id: 999-80-5625
+2026-06-11 17:44:29,406 | INFO | invoice_number = no: 13310164
+2026-06-11 17:44:29,406 | INFO | invoice_date = 01/16/2020
+2026-06-11 17:44:29,406 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:44:29,406 | INFO | vat = Tax Id: 999-80-5625
+2026-06-11 17:44:29,406 | INFO | gross_worth = 
+2026-06-11 17:44:29,407 | INFO | Processing batch1-0381.jpg
+2026-06-11 17:44:42,165 | INFO | Extracted 80 text rows
+2026-06-11 17:44:42,166 | INFO | seller_name = Client:
+2026-06-11 17:44:42,166 | INFO | seller_tax_id = Tax Id: 930-74-1829
+2026-06-11 17:44:42,166 | INFO | client_name = 
+2026-06-11 17:44:42,167 | INFO | client_tax_id = Tax Id: 930-74-1829
+2026-06-11 17:44:42,167 | INFO | invoice_number = no: 76272465
+2026-06-11 17:44:42,167 | INFO | invoice_date = 01/06/2017
+2026-06-11 17:44:42,167 | INFO | net_worth = VAT [%] Net worth Gross worth
+2026-06-11 17:44:42,167 | INFO | vat = Tax Id: 930-74-1829
+2026-06-11 17:44:42,168 | INFO | gross_worth = 
+2026-06-11 17:44:42,179 | INFO | Extraction completed
