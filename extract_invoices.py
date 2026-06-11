@@ -32,15 +32,15 @@ reader = easyocr.Reader(
 )
 
 FIELDS = {
-    "seller_name": ["seller", "vendor", "supplier"],
-    "seller_tax_id": ["tax id", "vat number"],
-    "client_name": ["client", "customer", "bill to"],
-    "client_tax_id": ["client tax"],
+    "seller_name": ["Seller:"], #["seller", "vendor", "supplier", "Seller:"],
+    "seller_tax_id":["tax id"], #["tax id", "vat number"],
+    "client_name": ["Client:"], #["client", "customer", "bill to", "Client:"],
+    "client_tax_id":["client tax id"],
     "invoice_number": ["invoice no", "invoice number"],
-    "invoice_date": ["invoice date", "date"],
-    "net_worth": ["net", "subtotal"],
+    "invoice_date": ["date of issue", "date"],
+    "net_worth": ["net worth", "net", "subtotal"],
     "vat": ["vat", "tax"],
-    "gross_worth": ["gross", "total"]
+    "gross_worth": ["gross worth","gross", "total",]
 }
 
 
