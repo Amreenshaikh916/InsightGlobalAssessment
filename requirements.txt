@@ -1,0 +1,9 @@
+easyocr==1.7.2
+torch
+torchvision
+opencv-python
+pandas
+rapidfuzz
+numpy
+kagglehub
+Pillow
